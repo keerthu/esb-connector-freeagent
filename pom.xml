@@ -24,7 +24,7 @@
     <artifactId>org.wso2.carbon.connector.freeagent</artifactId>
     <packaging>jar</packaging>
     <version>1.0.2-SNAPSHOT</version>
-    <name>WSO2 Carbon - Mediation Library Connector For freeagent</name>
+    <name>WSO2 EI Connector for Freeagent</name>
     <url>http://wso2.org</url>
     <properties>
         <connector.name>freeagent</connector.name>
